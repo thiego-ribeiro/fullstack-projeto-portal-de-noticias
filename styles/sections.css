@@ -79,7 +79,6 @@ section header {
     }
 
     p {
-      position: absolute;
       margin-top: 8px;
       font-weight: 800;
     }
